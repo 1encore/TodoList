@@ -60,9 +60,6 @@ Browser must start automatically after pressing enter
 * [NodeJS](https://nodejs.org/en/) - The open source server environment
 * [AngularJS](https://angular.io/) - extends HTML attributes with Directives, and binds data to HTML with Expressions
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
